@@ -13,7 +13,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) for Global
 Retail Analytics in the Electronics Industry
 
 ## Problem Statement
-As part of the data analytics team at Global Electronics, the objective is to analyze various datasets related to customers, products, sales, stores, and currency exchange rates. The aim is to provide actionable recommendations to improve the business.
+objective is to analyze various datasets related to customers, products, sales, stores, and currency exchange rates. The aim is to provide actionable recommendations to improve the business.
 
 ## Business Use Cases
 - **Customer Insights:** Analyze demographics and purchase patterns to enhance marketing strategies.
@@ -60,4 +60,4 @@ As part of the data analytics team at Global Electronics, the objective is to an
 - **Geographical Analysis:** Analyze sales by store location to identify high-performing regions.
 
 ## Results
-Upon completion of the project, you will deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics. This report will feature clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and the impact of currency on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
+Exploratory Data Analysis (EDA) report for Global Electronics. This report will feature clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and the impact of currency on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
