@@ -3,11 +3,11 @@
 ## Overview
 This project involves a comprehensive Exploratory Data Analysis (EDA) for Global Electronics, a leading retailer in the consumer electronics industry. The goal is to extract valuable insights to enhance customer satisfaction, optimize operations, and drive overall business growth.
 
-## Skills Acquired
+## Skills take away From This Project
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - SQL and Python for Data Management
-- Data Visualization using Power BI/Tableau
+- Data Visualization using Power BI
 
 ## Domain
 Retail Analytics in the Electronics Industry
