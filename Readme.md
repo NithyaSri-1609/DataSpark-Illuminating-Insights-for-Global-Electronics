@@ -61,7 +61,7 @@ objective is to analyze various datasets related to customers, products, sales, 
 
 ### LIBRARIES AND PACKAGE
 - **mysql-connector-python**
-- **pip install pandas**
+- **pandas**
 - import pandas as pd
 - import mysql.connector
 - from tabulate import tabulate
