@@ -59,5 +59,13 @@ objective is to analyze various datasets related to customers, products, sales, 
 - **Store Performance:** Evaluate store performance based on sales, size (square meters), and operational data (open date).
 - **Geographical Analysis:** Analyze sales by store location to identify high-performing regions.
 
+### LIBRARIES AND PACKAGE
+- **mysql-connector-python**
+- **pip install pandas**
+- import pandas as pd
+- import mysql.connector
+- from tabulate import tabulate
+- from datetime import datetime
+
 ## Results
 Exploratory Data Analysis (EDA) report for Global Electronics. This report will feature clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and the impact of currency on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
